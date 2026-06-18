@@ -53,6 +53,19 @@ The dashboard focuses on:
 
 - Departmental workforce distribution
 
+## Key Questions
+- What is the total workforce size?
+
+- Which departments have the highest employee count?
+
+- How many employees are eligible for promotion?
+
+- How many employees are at risk of retrenchment?
+
+- Which employees are both promotion-eligible and at retrenchment risk?
+
+- What is the gender distribution across departments?
+
 ## Key Insights
 - X employees are eligible for promotion.
 
