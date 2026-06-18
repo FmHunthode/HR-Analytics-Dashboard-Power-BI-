@@ -77,4 +77,6 @@ The dashboard focuses on:
 
 - Manager Department has the highest retrenchment risk.
 
-  ## Dashboard Preview
+## Dashboard Preview
+### Home
+[Home](https://github.com/FmHunthode/HR-Analytics-Dashboard-Power-BI-/blob/92d416e77355708da800ba55e136fecea9adf576/Home.png)
