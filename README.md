@@ -18,4 +18,13 @@ Performance Rating
 Promotion Status
 
 Retrenchment Status
+
 Salary Information
+## Tools Used
+Microsoft Power BI
+
+Power Query
+
+DAX
+
+Microsoft Excel
