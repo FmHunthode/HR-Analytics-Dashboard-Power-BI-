@@ -18,5 +18,4 @@ Performance Rating
 Promotion Status
 
 Retrenchment Status
-
 Salary Information
