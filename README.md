@@ -3,52 +3,63 @@ This project analyzes workforce data to provide insights into employee demograph
 ## Dataset Overview
 The dataset contains employee information including:
 
-Employee ID
+-Employee ID
 
-Department
+-Department
 
-Gender
+-Gender
 
-Age
+-Age
 
-Years of Service
+-Years of Service
 
-Performance Rating
+-Performance Rating
 
-Promotion Status
+-Promotion Status
 
-Retrenchment Status
+-Retrenchment Status
 
-Salary Information
+-Salary Information
 ## Tools Used
-Microsoft Power BI
+-Microsoft Power BI
 
-Power Query
+-Power Query
 
-DAX
+-DAX
 
-Microsoft Excel
+-Microsoft Excel
 ## Data Cleaning & Preparation
-Removed duplicate records
+-Removed duplicate records
 
-Handled missing values
+-Handled missing values
 
-Standardized department names
+-Standardized department names
 
-Created calculated columns and measures using DAX
+-Created calculated columns and measures using DAX
 
-Built data model relationships
+-Built data model relationships
 
 ## Analytical Approach
 
 The dashboard focuses on:
 
-Workforce demographics
+-Workforce demographics
 
-Employee performance analysis
+-Employee performance analysis
 
-Promotion eligibility analysis
+-Promotion eligibility analysis
 
-Retrenchment risk assessment
+-Retrenchment risk assessment
 
-Departmental workforce distribution
+-Departmental workforce distribution
+
+## Key Insights
+- X employees are eligible for promotion.
+
+- X employees are marked for retrenchment.
+
+- X employees fall into both categories, highlighting potential workforce planning conflicts.
+
+- Department X has the highest concentration of promotion candidates.
+
+- Department Y has the highest retrenchment risk.
