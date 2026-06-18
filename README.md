@@ -80,3 +80,6 @@ The dashboard focuses on:
 ## Dashboard Preview
 ### Home
 ![Home](https://github.com/FmHunthode/HR-Analytics-Dashboard-Power-BI-/blob/92d416e77355708da800ba55e136fecea9adf576/Home.png)
+
+### Details
+![Details](https://github.com/FmHunthode/HR-Analytics-Dashboard-Power-BI-/blob/6c9fe4fd4986a34a34fc8b64724e3744ec2b8dbf/Details.png)
