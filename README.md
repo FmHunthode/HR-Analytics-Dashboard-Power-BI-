@@ -83,3 +83,6 @@ The dashboard focuses on:
 
 ### Details
 ![Details](https://github.com/FmHunthode/HR-Analytics-Dashboard-Power-BI-/blob/6c9fe4fd4986a34a34fc8b64724e3744ec2b8dbf/Details.png)
+
+### Action
+![Action](https://github.com/FmHunthode/HR-Analytics-Dashboard-Power-BI-/blob/e5b798eb18cea8697bf0d7428b7b7444b7d6ba7a/Action.png)
