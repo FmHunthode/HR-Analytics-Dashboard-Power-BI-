@@ -67,12 +67,14 @@ The dashboard focuses on:
 - What is the gender distribution across departments?
 
 ## Key Insights
-- X employees are eligible for promotion.
+- 72 employees are eligible for promotion.
 
-- X employees are marked for retrenchment.
+- 117 employees are marked for retrenchment.
 
-- X employees fall into both categories, highlighting potential workforce planning conflicts.
+- 54 employees fall into both categories, highlighting potential workforce planning conflicts.
 
-- Department X has the highest concentration of promotion candidates.
+- Manager Department has the highest concentration of promotion candidates.
 
-- Department Y has the highest retrenchment risk.
+- Manager Department has the highest retrenchment risk.
+
+  ## Dashboard Preview
